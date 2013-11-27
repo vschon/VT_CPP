@@ -19,7 +19,7 @@
     #include <sys/types.h>  // various data types
     #include <sys/stat.h>   // file information
     #include <unistd.h>     // access to POSIX operation API
-    #include <errono.h>     // report error conditions
+    #include <errno.h>     // report error conditions
     #include <dirent.h>     // for directory traversing
 #endif
 
